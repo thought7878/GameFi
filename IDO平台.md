@@ -15,6 +15,8 @@
 [平均收益30倍 币安IDO打新上手教程](https://www.youtube.com/watch?v=t5m9FHxykQQ)
 
 
+- [miso auction](https://app.sushi.com/miso?status=finished)
+- [copper auction](https://copperlaunch.com/pools)
 - [bscpad](https://bscpad.com/projects)
 - [gamefi](https://hub.gamefi.org/#/)
 - [Ignition](https://ignition.paidnetwork.com/project/warena)
